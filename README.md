@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Rajarajan
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning React and React Native
+- 👋 Hi, I am Rajarajan
+- 👀 Mobile app developer, interested in React and Flutter
 - 📫 How to reach me RajLikesCoding@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a lazy coder
 
 <!---
 RajLikesCoding/RajLikesCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
